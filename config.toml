@@ -16,22 +16,26 @@ theme = "vncnt-hugo"
 title = "Valdir Pereira"
 
 [blackfriday]
-  extensions = ["hardLineBreak"]
+    extensions = ["hardLineBreak"]
 
 [permalinks]
-  fixed = ":title/"
-  posts = "posts/:slug/"
+    fixed = ":title/"
+    posts = "posts/:slug/"
 
 [params]
-  author = "Valdir Pereira"
-  email = "valdiriano@gmail.com"
-  description = "Landing Page"
-  bio = "Back-End Developer.\nSoftware Enginner.\nData Scientist."
-  avatar = "img/avatar.jpg"
-  favicon = "img/favicon.ico"
-  error404 = "Well, I think you've gone too far, pal."
+    title = "Valdir Pereira"
+    author = "Valdir Pereira"
+    email = "valdiriano@gmail.com"
+    firstName = "Valdir"
+    lastName = "Pereira"
+    address = "São Paulo, BR"
+    description = "Back-End Developer and Software Engineer."
+    bio = "Back-End Developer.\nSoftware Engineer."
+    avatar = "img/avatar.jpg"
+    favicon = "img/favicon.ico"
+    error404 = "Well, I think you've gone too far, pal."
 
-  [params.contact]
-    github = "https://github.com/ValdirNp"
-    instagram = "https://instagram.com/valdirnasp"
-    twitter = "https://twitter.com/valdirnp"
+    [params.contact]
+        github = "https://github.com/ValdirNp"
+        instagram = "https://instagram.com/valdirnasp"
+        twitter = "https://twitter.com/valdirnp"
