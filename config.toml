@@ -1,37 +1,37 @@
 baseURL = "https://valdirnp.com.br/"
-# include content marked as draft
-buildDrafts = false
-# include content with publishdate in the future
-buildFuture = false
-# include content already expired
-buildExpired = false
-# enable this to make all relative URLs relative to content root. Note that this does not affect absolute URLs.
-relativeURLs = true
-disableRSS = true
-enableRobotsTXT = true
-editor = "nano"
 languageCode = "pt-br"
 language = "pt-br"
-theme = "vncnt-hugo"
+theme = "hugo-resume"
 title = "Valdir Pereira"
 
-[blackfriday]
-  extensions = ["hardLineBreak"]
-
-[permalinks]
-  fixed = ":title/"
-  posts = "posts/:slug/"
-
 [params]
-  author = "Valdir Pereira"
-  email = "valdiriano@gmail.com"
-  description = "Landing Page"
-  bio = "Back-End Developer.\nSoftware Engineer."
-  avatar = "img/avatar.jpg"
-  favicon = "img/favicon.ico"
-  error404 = "Well, I think you've gone too far, pal."
+    firstName = "Valdir"
+    lastName = "Pereira"
+    address = "São Paulo, BR"
+    phone = "+55 11 97658 4961"
+    contactNote = "Back-End Developer"
+    profileImage = "img/avatar.jpg"
+    email = "valdiriano@gmail.com"
+    description = "Back-End Developer and Software Engineer with experience in PHP Development, aspiring to be a Data Scientist."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
 
-  [params.contact]
-    github = "https://github.com/ValdirNp"
-    instagram = "https://instagram.com/valdirnasp"
-    twitter = "https://twitter.com/valdirnp"
+    showQr = false
+
+    [[params.handles]]
+        name = "GitHub"
+        link = "https://github.com/ValdirNp/"
+
+    [[params.handles]]
+        name = "Instagram"
+        link = "https://instagram.com/valdirnasp/"
+
+    [[params.handles]]
+        name = "Twitter"
+        link = "https://twitter.com/valdirnp/"
