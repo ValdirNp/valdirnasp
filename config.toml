@@ -1,0 +1,37 @@
+baseURL = "https://valdirnp.com.br/"
+languageCode = "pt-br"
+language = "pt-br"
+# theme = "hugo-resume"
+title = "Valdir Pereira"
+
+[params]
+    firstName = "Valdir"
+    lastName = "Pereira"
+    address = "São Paulo, BR"
+    phone = "+55 11 97658 4961"
+    contactNote = "Back-End Developer"
+    profileImage = "img/avatar.jpg"
+    email = "valdiriano@gmail.com"
+    description = "Back-End Developer and Software Engineer with experience in PHP Applications, aspiring to be a Mathematician and Data Scientist."
+    favicon = "images/favicon.ico"
+    # what sections
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showExperience = true
+    showEducation = true
+
+    showQr = false
+
+    [[params.handles]]
+        name = "GitHub"
+        link = "https://github.com/ValdirNp/"
+
+    [[params.handles]]
+        name = "Instagram"
+        link = "https://instagram.com/valdirnasp/"
+
+    [[params.handles]]
+        name = "Twitter"
+        link = "https://twitter.com/valdirnp/"
