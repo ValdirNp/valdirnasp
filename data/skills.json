@@ -1,0 +1,19 @@
+[
+    {
+        "grouping": "Languages, Frameworks, Libraries",
+        "skills": ["PHP", "HTML5", "CSS3", "Javascript", "jQuery", "Laravel", "CodeIgniter", "CakePHP", "FlightPHP", "Wordpress", "MySQL",
+            "MongoDB"]
+    },
+    {
+    	"grouping": "Methodologies",
+    	"skills": ["Agile", "Kanban", "DDD"]
+    },
+    {
+        "grouping": "Tools & Platform Development",
+        "skills": [ "git", "VS Code", "Trello"]
+    },
+    {
+    	"grouping": "Learning",
+    	"skills": ["PHP", "Javascript", "React", "Node.js", "Python"]
+    }
+]
