@@ -1,4 +1,4 @@
-baseURL = "https://valdirnp.com.br/"
+baseURL = "https://valdirnp.netlify.app/"
 languageCode = "pt-br"
 language = "pt-br"
 # theme = "hugo-resume"
