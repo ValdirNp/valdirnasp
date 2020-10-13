@@ -14,3 +14,5 @@ Aos 15 comecei a trabalhar, e sempre fui bastante estudioso também. Sempre tive
 Quando eu estava no 3º ano, eu comecei a fazer um curso técnico em informática, e foi aí que aprendi a programar. Então, fui pesquisar cursos nessa área, e acabei me inscrevendo em apenas dois vestibulares: na FEI e na FUVEST, pois foi onde encontrei cursos que me interessaram. E depois disso, parti pra estudar.
 
 A prova da FEI era a primeira a ocorrer, e o processo deles é bem rápido. Dois dias depois, eu tinha passado! Lembro muito bem que eu estava na aula de português e recebi um SMS (!) de uma amiga falando que nós dois tínhamos passado! Fiquei super feliz, contei pros amigos e fiquei doido pra chegar em casa e contar pra minha mãe. Mas a reação da minha mãe foi outra; ela não ficou animada como eu. Justamente porque ela sabia que a gente não ia conseguir pagar a mensalidade na FEI.
+
+O importante é que quando me inscrevi no vestibular da FEI, também me inscrevi para as bolsas sociais da faculdade. Muitas faculdades possuem bolsas do tipo. Alguns dias depois fiz uma entrevista com os assistentes sociais da FEI e consegui: 100% de bolsa! Nesse dia sim, minha mãe ficou feliz!
