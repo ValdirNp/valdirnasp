@@ -15,4 +15,6 @@ Quando eu estava no 3º ano, eu comecei a fazer um curso técnico em informátic
 
 A prova da FEI era a primeira a ocorrer, e o processo deles é bem rápido. Dois dias depois, eu tinha passado! Lembro muito bem que eu estava na aula de português e recebi um SMS (!) de uma amiga falando que nós dois tínhamos passado! Fiquei super feliz, contei pros amigos e fiquei doido pra chegar em casa e contar pra minha mãe. Mas a reação da minha mãe foi outra; ela não ficou animada como eu. Justamente porque ela sabia que a gente não ia conseguir pagar a mensalidade na FEI.
 
-O importante é que quando me inscrevi no vestibular da FEI, também me inscrevi para as bolsas sociais da faculdade. Muitas faculdades possuem bolsas do tipo. Alguns dias depois fiz uma entrevista com os assistentes sociais da FEI e consegui: 100% de bolsa! Nesse dia sim, minha mãe ficou feliz!
+O importante é que quando me inscrevi no vestibular da FEI, também me inscrevi para as bolsas sociais da faculdade. Muitas faculdades possuem bolsas do tipo. Alguns dias depois fiz uma entrevista com os assistentes sociais da FEI e consegui: 100% de bolsa! Nesse dia sim, minha mãe ficou feliz! No dia seguinte eu já estava matriculado. Depois disso, só foi sucesso: graduação, pós-graduação, vários empregos pelo caminho e, hoje, 6 anos de experiência em desenvolvimento.
+
+A dica que deixo, depois dessa história toda, é pra sempre pesquisar cursos, programas sociais e estudantis, ficar atento a isso e estudar. Bastante.
