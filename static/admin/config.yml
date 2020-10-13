@@ -8,10 +8,11 @@ collections:
     label: 'Blog'
     folder: 'content/posts'
     create: true
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+    slug: '{{slug}}'
     editor:
       preview: false
     fields:
+      - { label: "Featured Image", name: "thumbnail", widget: "image" }
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
