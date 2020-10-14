@@ -1,19 +1,19 @@
 [
     {
         "grouping": "Languages, Frameworks, Libraries",
-        "skills": ["PHP", "HTML5", "CSS3", "Javascript", "jQuery", "Laravel", "CodeIgniter", "CakePHP", "FlightPHP", "Wordpress", "MySQL",
-            "MongoDB"]
+        "skills": ["PHP", "Laravel", "CodeIgniter", "CakePHP", "FlightPHP", "MySQL",
+            "MongoDB", "HTML5", "CSS3", "Javascript", "jQuery"]
     },
     {
     	"grouping": "Methodologies",
-    	"skills": ["Agile", "Kanban", "DDD"]
+    	"skills": ["Agile", "Kanban"]
     },
     {
         "grouping": "Tools & Platform Development",
-        "skills": [ "git", "VS Code", "Trello"]
+        "skills": [ "git", "VSCode", "PHPStorm", "Trello"]
     },
     {
     	"grouping": "Learning",
-    	"skills": ["PHP", "Javascript", "React", "Node.js", "Python"]
+    	"skills": ["PHP", "Cloud", "DevOps"]
     }
 ]

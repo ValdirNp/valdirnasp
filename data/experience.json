@@ -1,9 +1,15 @@
 [
     {
         "role": "Back-End Developer",
+        "company": "PRAVALER",
+        "summary": "Developed several PHP services.",
+        "range": "September 2019 - Present"
+    },
+    {
+        "role": "Back-End Developer",
         "company": "influu",
         "summary": "Developed influu's platform and managed internal blogs.",
-        "range": "June 2018 - Present"
+        "range": "June 2018 - September 2019"
     },
     {
         "role": "Back-End Developer",
