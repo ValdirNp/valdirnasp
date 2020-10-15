@@ -1,0 +1,62 @@
+section:
+  name: Experiências
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+experiences:
+- company:
+    name: PRAVALER
+    url: "https://www.pravaler.com.br/"
+    location: São Paulo
+    overview: O PRAVALER é a maior fintech de financiamento estudantil do Brasil.
+  positions:
+  - designation: Analista de Sistemas Pleno
+    start: Setembro 2019
+    responsibilities:
+    - Design and develop XYZ tool for ABC task
+    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+    - Lead backend team.
+
+- company:
+    name: influu
+    url: "https://www.influu.me"
+    location: São Paulo
+    overview: A Influu é uma agência que realiza o relacionamento entre marcas e influenciadores.
+  positions:
+  - designation: Desenvolvedor Back-end
+    start: Junho 2018
+    end: Setembro 2019
+    responsibilities:
+    - Write lots of example codes.
+    - Read lots of examples.
+    - See lots of example videos.
+
+- company:
+    name: Witix Código Criativo
+    url: "https://www.intern.com"
+    location: São Paulo
+    overview: A Witix é uma agência de marketing digital focada na criação de sites e aplicativos.
+  positions:
+  - designation: Desenvolvedor Back-end
+    start: Janeiro 2016
+    end: Junho 2018
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.
+
+- company:
+    name: Vioti Comunicação
+    url: "https://www.vioti.com.br/"
+    location: São Paulo
+    overview: A Vioti é uma agência de publicidade focada na criação de sites e redes sociais.
+  positions:
+  - designation: Desenvolvedor Back-end
+    start: Maio 2014
+    end: Janeiro 2016
+    responsibilities:
+    - Count lost of interns.
+    - Count more interns.
+    - Count me as an intern.
