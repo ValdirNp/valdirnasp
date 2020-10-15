@@ -1,0 +1,47 @@
+section:
+  name: "Sobre mim"
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+designation: "Engenheiro de Software"
+resume: "files/resume.pdf"
+summary: "Sou engenheiro de software com mais de 6 anos de experiência. Desenvolvo em PHP e tô aprendendo Elixir. Algumas vezes, brotam ideias na minha mente e desenvolvo como projetos pessoais."
+
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "valdiriano@gmail.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/valdirnp"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://www.twitter.com/valdirnp"
+
+- name: Instagram
+  icon: "fab fa-instagram"
+  url: "https://www.instagram.com/valdirnp"
+
+softSkills:
+- name: Liderança
+  percentage: 70
+  color: blue
+- name: Trabalho em equipe
+  percentage: 95
+  color: yellow
+- name: Comunicação
+  percentage: 80
+  color: pink
+- name: Gosto pelo Trabalho
+  percentage: 70
+  color: green
+- name: Aprendizado
+  percentage: 80
+  color: sky
+- name: Solução de Problemas
+  percentage: 85
+  color: orange

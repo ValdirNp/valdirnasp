@@ -1,0 +1,25 @@
+section:
+  name: Projetos
+  id: projects
+  enable: true
+  weight: 4
+  showOnNavbar: true
+
+projects:
+- name: Flixx
+  logo: images/projects/kubernetes.png
+  role: ""
+  timeline: "Setembro 2020 - Hoje"
+  repo: https://github.com/valdirnp/flixx
+  url: "https://flixx.netlify.app"
+  summary: Um pequeno site em React que sugere aleatoriamente filmes e séries.
+  tags: ["hobby", "react", "netlify"]
+
+- name: Subtitle PM
+  logo: images/projects/tensorflow.png
+  role: Developer
+  timeline: "Fevereiro 2020 - Hoje"
+  # repo: ""
+  # url: ""
+  summary: Uma plataforma em React para tradutores fazerem controle de projetos.
+  tags: ["hobby", "react", "netlify"]
