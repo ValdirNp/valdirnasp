@@ -1,4 +1,5 @@
 ---
+thumbnail: /img/matese-fields-pvhma684eei-unsplash.jpg
 title: A (não) esperança de estudar numa faculdade
 date: 2020-10-13T23:30:51.972Z
 description: A história de como eu entrei na faculdade meio de repente
