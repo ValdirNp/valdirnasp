@@ -27,21 +27,21 @@ socialLinks:
   url: "https://www.instagram.com/valdirnp"
 
 softSkills:
-- name: Liderança
+- name: Lorem
   percentage: 70
   color: blue
-- name: Trabalho em equipe
+- name: Ipsum
   percentage: 95
   color: yellow
-- name: Comunicação
+- name: Dolor
   percentage: 80
   color: pink
-- name: Gosto pelo Trabalho
+- name: Sit
   percentage: 70
   color: green
-- name: Aprendizado
+- name: Amet
   percentage: 80
   color: sky
-- name: Solução de Problemas
+- name: Setus
   percentage: 85
   color: orange
