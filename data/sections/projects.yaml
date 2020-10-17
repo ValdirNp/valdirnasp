@@ -6,6 +6,15 @@ section:
   showOnNavbar: true
 
 projects:
+- name: ValdirNp
+  logo: images/projects/kubernetes.png
+  role: ""
+  timeline: "Setembro 2020 - Hoje"
+  repo: https://github.com/valdirnp/valdirnp
+  url: "https://valdirnp.dev"
+  summary: Repositório desse site, feito em hugo e hospedado no Netlify.
+  tags: ["hugo", "portfolio", "blog", "netlify"]
+
 - name: Flixx
   logo: images/projects/kubernetes.png
   role: ""
