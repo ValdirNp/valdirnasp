@@ -3,6 +3,8 @@ languageCode: "pt-br"
 title: "Valdir Pereira"
 theme: "toha"
 
+defaultContentLanguage: br
+
 markup:
   goldmark:
     renderer:
@@ -22,11 +24,11 @@ params:
     inverted: assets/images/inverted-logo.png
     favicon: assets/images/favicon.png
 
-  gitRepo: https://github.com/valdirnp/valdirnp
+  # gitRepo: https://github.com/valdirnp/valdirnp
 
   enableBlogPost: true
 
-  enableTOC: true
+  enableTOC: false
 
   # Provide newsletter configuration. This feature hasn't been implemented yet.
   # Currently, you can just hide it from the footer.
