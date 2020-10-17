@@ -1,6 +1,7 @@
 backend:
   name: git-gateway
   branch: master # Branch to update (optional; defaults to master)
+  repo: ValdirNp/valdirnp
 media_folder: static/img
 public_folder: /img
 collections:
