@@ -1,7 +1,7 @@
 ---
 hero: /img/sara-kurfess-6lct2krpvni-unsplash.jpg
-title: Dicas de streamers
-date: 2020-10-19T17:13:41.525Z
+title: Code streamers para acompanhar, assistir e aprender
+date: 2020-10-21T16:00:41.525Z
 description: Dicas de streamers
 ---
 a
