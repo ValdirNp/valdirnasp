@@ -6,7 +6,7 @@ section:
   showOnNavbar: true
 
 designation: "Engenheiro de Software"
-resume: "files/resume.pdf"
+# resume: "files/resume.pdf"
 summary: "Sou engenheiro de software com mais de 6 anos de experiência. Desenvolvo em PHP e tô aprendendo Elixir. Algumas vezes, brotam ideias na minha mente e desenvolvo como projetos pessoais."
 
 socialLinks:

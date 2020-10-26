@@ -7,7 +7,7 @@ section:
 
 projects:
 - name: ValdirNp
-  logo: images/projects/kubernetes.png
+  logo: images/projects/hugo.png
   role: ""
   timeline: "Setembro 2020 - Hoje"
   repo: https://github.com/valdirnp/valdirnp
@@ -16,7 +16,7 @@ projects:
   tags: ["hugo", "portfolio", "blog", "netlify"]
 
 - name: Flixx
-  logo: images/projects/kubernetes.png
+  logo: images/projects/react.png
   role: ""
   timeline: "Setembro 2020 - Hoje"
   repo: https://github.com/valdirnp/flixx
@@ -25,7 +25,7 @@ projects:
   tags: ["hobby", "react", "netlify"]
 
 - name: Subtitle PM
-  logo: images/projects/tensorflow.png
+  logo: images/projects/react.png
   role: Developer
   timeline: "Fevereiro 2020 - Hoje"
   # repo: ""

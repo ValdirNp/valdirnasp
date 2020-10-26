@@ -8,16 +8,15 @@ section:
 experiences:
 - company:
     name: PRAVALER
-    url: "https://www.pravaler.com.br/"
+    url: "https://www.pravaler.com.br"
     location: São Paulo
     overview: O PRAVALER é a maior fintech de financiamento estudantil do Brasil.
   positions:
   - designation: Analista de Sistemas Pleno
     start: Setembro 2019
     responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+    - Desenvolvimento de serviços utilizando PHP
+    - Participação nas decisões estratégicas da área
 
 - company:
     name: influu
@@ -29,13 +28,12 @@ experiences:
     start: Junho 2018
     end: Setembro 2019
     responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+    - Desenvolvimento de plataformas utilizando PHP e APIs de redes sociais.
+    - Desenvolvimento de sites, blogs e CMSs da empresa com PHP e Wordpress.
 
 - company:
     name: Witix Código Criativo
-    url: "https://www.intern.com"
+    url: "https://witix.com.br"
     location: São Paulo
     overview: A Witix é uma agência de marketing digital focada na criação de sites e aplicativos.
   positions:
@@ -43,13 +41,13 @@ experiences:
     start: Janeiro 2016
     end: Junho 2018
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Criação de ERPs personalizados para clientes utilizando PHP.
+    - Desenvolvimento de sites e CMSs de clientes da agência.
+    - Gestão de servidores e hospedagens.
 
 - company:
     name: Vioti Comunicação
-    url: "https://www.vioti.com.br/"
+    url: "https://www.vioti.com.br"
     location: São Paulo
     overview: A Vioti é uma agência de publicidade focada na criação de sites e redes sociais.
   positions:
@@ -57,6 +55,5 @@ experiences:
     start: Maio 2014
     end: Janeiro 2016
     responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+    - Desenvolvimento de sites e CMSs de clientes da agência utilizando PHP.
+    - Gestão de servidores e hospedagens.
